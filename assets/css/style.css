@@ -32,16 +32,16 @@ header div {
     font-size: 20px;
 }
 
-/*commented out since I couldn't see how this was necessary*/
-
-/* .header div ul {
-    list-style-type: none;
-} */
-
 header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
+/* rearraged code to have like items together*/
+
+
+/*removed out header div ul styling since I couldn't see how this was necessary*/
+
 
 a {
     color: #ffffff;
@@ -129,7 +129,7 @@ p {
 }
 
 
-/* changed from div class footer to just footer in html, updated in css */
+/* changed from div class footer to just footer in html, updated in css to match */
 
 footer {
     padding: 30px;
